@@ -1,6 +1,6 @@
 # CryptoSearch
 
-# Hostte Link :-
+# Hostte Link :-https://rhushi1998.github.io/CryptoSearch/CryptoCurrency.html
 
 ### cryptoCurrency search application in which 
 ### User can search any cryptocurrency
